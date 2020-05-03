@@ -1,3 +1,13 @@
+.tes:hover{
+  cursor: pointer;
+}
+
+.detail:hover{
+  cursor: pointer;
+  transform: scale(1.05);
+  transition: 0.5s;
+}
+
 .App {
   text-align: center;
 }
@@ -36,3 +46,4 @@
     transform: rotate(360deg);
   }
 }
+
